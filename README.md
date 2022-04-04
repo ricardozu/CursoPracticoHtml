@@ -1,2 +1,2 @@
-# CursoPracticoHtml
+# GoogleClone
 HTML practice
